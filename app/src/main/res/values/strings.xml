@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ridesharingapp</string>
+    <string name="logo">logo</string>
+    <string name="carpool">CARPOOL</string>
+    <string name="driver_button">Driver</string>
+    <string name="passenger_button">Passenger</string>
+    <string name="immigrant_friendly">Immigrant-friendly</string>
+    <string name="sign_up_as">Sign up as:</string>
+    <string name="or_login_here">Or login here</string>
+    <string name="passenger_sign_up_name">Passenger Sign Up</string>
+    <string name="passenger_my_info"><![CDATA[Passenger > My Info]]></string>
+    <string name="name_of_child">Name of child:</string>
+    <string name="age">Age:</string>
+    <string name="preferred_pickup_location">Preferred Pickup Location:</string>
+    <string name="school">School:</string>
+    <string name="preferred_language">Preferred Language:</string>
+    <string name="name_of_parent_guardian">Name of Parent/Guardian:</string>
+    <string name="done">Done</string>
+    <string name="edittext_name">name</string>
+    <string name="choose_routes_name">Choose Routes</string>
+</resources>
