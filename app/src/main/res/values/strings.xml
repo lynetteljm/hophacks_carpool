@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ridesharingapp</string>
+    <string name="app_name">SFNC CARPOOL</string>
     <string name="logo">logo</string>
     <string name="carpool">CARPOOL</string>
     <string name="driver_button">Driver</string>
@@ -18,4 +18,17 @@
     <string name="done">Done</string>
     <string name="edittext_name">name</string>
     <string name="choose_routes_name">Choose Routes</string>
+    <string name="routes">Routes</string>
+    <string name="create_a_new_route">Create a new route</string>
+    <string name="one_time_events">One-time events</string>
+    <string name="recurring_events">Recurring events</string>
+    <string name="route_1">Daily Middle School Pickup\n\n
+    <b>Name of recurring event:</b> Daily Middle School Pickup\n\n
+    <b>Destination:</b> Baltimore Middle School\n\n
+    <b>Time:</b> 7am-8am (to make it before morning assembly at 8.20am);\n
+        1pm-2pn(drop-off back home after school)\n
+    </string>
+    <string name="more">MORE</string>
+    <string name="route_2">Route 2</string>
+    <string name="route_3">Route 3</string>
 </resources>
